@@ -1,4 +1,3 @@
 samuelk0z:ggordos
-god:AXHSKL0X
-teste:gggordos
-borges:blessedbypass
+CL1:112233
+CL2:332211
